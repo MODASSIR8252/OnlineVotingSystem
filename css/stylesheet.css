@@ -1,0 +1,85 @@
+body{
+    /* text-align: center; */
+    background-color:#e974e9;
+}
+
+
+#headersection{
+    padding: 6px;
+    
+}
+
+#headersection h1{
+    font-family: cursive;
+    border-style: solid;
+    background-color:rgb(76 197 54);
+    border-radius: 12px;
+    width: 28%;
+}
+
+input{
+    padding: 10px;
+    border-radius: 15px;
+    font-size: 2;
+}
+
+#dropbox{
+    padding: 10px;
+    border-radius: 5px;
+    border-color: black;
+    width: 13%;
+}
+
+#loginbtn{
+    padding: 5px;
+    font-size: 15PX;
+    border-radius: 5px;
+    background-color: #0f4d5e;
+    color:white;
+}
+
+#address{
+    width: 25%;
+}
+
+#imagepart{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 3px;
+    width: 28%;
+}
+
+#role{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 3px;
+    width: 28%;
+}
+
+#role select{
+    border-radius: 5px;
+    padding: 9px; 
+}
+
+#register{
+    padding: 5px;
+    font-size: 15PX;
+    border-radius: 5px;
+    background-color: #0f4d5e;
+    color:white;
+}
+
+body p{
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 5px;
+    font-size: 15px;
+    background-color: #3498db;
+    color: white;
+    border-radius: 5px
+}
+
+#profile{
+    background-color: white;
+}
